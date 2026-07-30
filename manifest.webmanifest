@@ -1,7 +1,7 @@
 {
-  "name": "莫兰迪工作台",
-  "short_name": "工作台",
-  "description": "待办 · 体重 · 生理期 · 学习 · 运动 五大板块打卡集星工作台",
+  "name": "Sylvia每日打卡",
+  "short_name": "Sylvia打卡",
+  "description": "Sylvia 的待办 · 体重 · 生理期 · 学习 · 运动 五大板块打卡集星工作台",
   "lang": "zh-CN",
   "start_url": "./index.html",
   "scope": "./",
